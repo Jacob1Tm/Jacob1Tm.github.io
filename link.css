@@ -1,0 +1,27 @@
+.text:link {
+    color: rgb(0, 255, 234);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 250%;
+}
+
+.text:visited {
+    color: rgb(0, 255, 234);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 250%;
+}
+
+.text:hover {
+    color: rgb(0, 255, 234);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 250%;
+}
+
+.text:active {
+    color: rgb(0, 255, 234);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 250%;
+}

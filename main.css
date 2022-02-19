@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(72, 255, 0);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 250%;
+    text-align: center;
+}
+
+body {
+    color: rgb(255, 255, 255);
+    background-color: #143a22;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.aboutbot {
+    color: rgb(255, 255, 255);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.support {
+    color: rgb(255, 255, 255);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 50%;
+    position: relative;
+    right: 4px;
+    top: -11px;
+}
