@@ -1,3 +1,1 @@
-RewriteCond %{HTTP_HOST} ^jacobtm.ga [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.jacobtm.ga [NC]
-RewriteRule ^(.*)$ http://jacobtm.ga/error.html/$1 [L,R=301,NC]
+ErrorDocument 404 https://jacobtm.ga/error.html
