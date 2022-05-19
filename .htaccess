@@ -1,1 +1,3 @@
+Options -Indexes
+ErrorDocument 403 https://jacobtm.ga/error.html
 ErrorDocument 404 https://jacobtm.ga/error.html
